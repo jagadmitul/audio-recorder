@@ -13,9 +13,3 @@ export default {
   },
 };
 </script>
-
-<style scoped>
-#app {
-  margin-inline: 45px;
-}
-</style>
